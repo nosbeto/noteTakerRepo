@@ -4,7 +4,7 @@ const path = require("path");
 const dbData = require("./db/db.json");
 
 const app = express();
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 
 //middleware for parsing json and urlencoded data
 app.use(express.static("public"));
