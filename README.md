@@ -3,7 +3,7 @@
 ## Description
 This JS application can be used to write and save notes. It uses Express.js as the backend and saves and retrieves notes data from a JSON file.
 
-![Screenshot](assets/images/screenshot1.png)
+![Screenshot](./assets/images/screenshot1.png)
 
 
 ## Table of Contents
@@ -33,6 +33,41 @@ Once those two prerequisites have been installed on your laptop proceed to the I
 <code>http://localhost:3000/notes</code>. 
 6) Start using your Note Taker Locally!
 
-You don't want to go through all these steps and have an express terminal open? No problem, there is an already deployed Note Taker App that I have deployed using Heroku; just visit this website
+You don't want to go through all these steps and have an express terminal open? No problem, there is an already deployed Note Taker App that I have deployed using Heroku; just visit this website here 
+https://damp-cove-99767.herokuapp.com/
+
+Important: Keep in mind the "delete" functionality hasn't been developed yet
 
 ## Usage 
+Provides an end-user app where the customer can store notes and retreive later
+
+## Credits
+* Me
+* Myself
+* I
+
+Alberto De Armas --> https://github.com/nosbeto
+
+## License
+
+MIT License
+
+Copyright (c) [2022] [Alberto De Armas]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
